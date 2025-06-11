@@ -354,9 +354,3 @@ This comprehensive README.md file includes:
 9. **SDG alignment** as requested
 10. **Professional disclaimers** for medical applications
 
-Save this as `README.md` in your project root directory, then add and commit it:
-
-```bash
-git add README.md
-git commit -m "Add comprehensive README.md documentation"
-git push origin master
